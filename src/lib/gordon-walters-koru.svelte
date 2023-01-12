@@ -160,7 +160,7 @@
         type="range"
         bind:value={MAX_KORU_COUNT}
         min="0"
-        max="10"
+        max="20"
         step="1"
       />
       {MAX_KORU_COUNT}
